@@ -130,3 +130,4 @@ Nordic社製のBluetooth SoC (nRF52840) を搭載し、BLE無線動作、ロー�
 * **ZMK Firmware:** [dotting-dots/zmk-config-dotmatrix40W](https://github.com/dotting-dots/zmk-config-dotmatrix40W)
 * **ビルドガイド・取扱説明書:** [dotmatrix40 Wireless documents](https://valuable-lancer-1ce.notion.site/dotmatrix40-Wireless-documents-2ce71a70e30a802caf0ef0f63cc6e76c)
 * **入手先:** [dotmatrix40 Wireless \| dotting dots (STORES)](https://dotting-dots.stores.jp/items/69be90566d097bce89c039fa)
+* **X (Twitter):** [dotting dots（@dotting_dots_x）](https://x.com/dotting_dots_x)
